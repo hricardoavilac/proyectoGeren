@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F6F50"/>
+      <stop offset="1" stop-color="#5FA37A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="440" fill="url(#g)"/>
+  <!-- Hojas decorativas -->
+  <g opacity="0.25" fill="#D7E8DD">
+    <path d="M1040 -20 C1180 20 1230 160 1150 260 C1060 200 1010 90 1040 -20 Z"/>
+    <path d="M930 330 C1010 250 1140 260 1190 360 C1100 430 990 420 930 330 Z"/>
+    <path d="M-40 300 C40 230 150 250 190 350 C110 420 10 400 -40 300 Z"/>
+  </g>
+  <!-- Monstera -->
+  <g transform="translate(830,70)">
+    <path d="M110 300 C110 230 115 190 125 150" stroke="#D7E8DD" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M125 150 C40 135 0 60 40 20 C95 -15 215 5 235 80 C250 145 190 170 125 150 Z" fill="#D7E8DD"/>
+    <path d="M125 150 C138 110 158 75 185 45" stroke="#1F6F50" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M65 60 L115 100" stroke="#1F6F50" stroke-width="8" stroke-linecap="round"/>
+    <path d="M160 125 L215 112" stroke="#1F6F50" stroke-width="8" stroke-linecap="round"/>
+    <path d="M55 110 L105 128" stroke="#1F6F50" stroke-width="8" stroke-linecap="round"/>
+    <path d="M60 270 L200 270 L185 345 L75 345 Z" fill="#C97B2E"/>
+    <rect x="50" y="258" width="160" height="22" rx="6" fill="#B06A24"/>
+  </g>
+  <!-- Sello de descuento -->
+  <circle cx="560" cy="345" r="66" fill="#C97B2E"/>
+  <text x="560" y="350" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="48" font-weight="800" fill="#FFFFFF">20%</text>
+  <text x="560" y="380" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" letter-spacing="2">OFF</text>
+  <!-- Texto -->
+  <text x="70" y="120" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" fill="#D7E8DD" letter-spacing="4">PROMOCIÓN ESPECIAL</text>
+  <text x="70" y="200" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="68" font-weight="800" fill="#FFFFFF">Semana Urban Jungle</text>
+  <text x="70" y="262" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" fill="#FFFFFF">20% de descuento en plantas de interior</text>
+  <rect x="70" y="310" width="330" height="70" rx="35" fill="#FFFFFF"/>
+  <text x="235" y="355" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#1F6F50">Código: JUNGLA20</text>
+</svg>

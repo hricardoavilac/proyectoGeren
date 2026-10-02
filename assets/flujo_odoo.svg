@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1400" height="560" fill="#FFFFFF"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#1F6F50"/>
+    </marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#C97B2E"/>
+    </marker>
+  </defs>
+  <text x="700" y="42" text-anchor="middle" font-size="28" font-weight="700" fill="#1F6F50">Flujo integrado UrbanJungle en Odoo (CRM · ERP · SCM)</text>
+
+  <!-- Fila superior: ciclo de venta -->
+  <g font-size="20">
+    <rect x="40" y="90" width="230" height="120" rx="14" fill="#D7E8DD" stroke="#1F6F50" stroke-width="2"/>
+    <text x="155" y="130" text-anchor="middle" font-weight="700" fill="#1F6F50">CRM</text>
+    <text x="155" y="160" text-anchor="middle" fill="#333">Pipeline y plantillas</text>
+    <text x="155" y="186" text-anchor="middle" fill="#333">de correo</text>
+
+    <rect x="370" y="90" width="230" height="120" rx="14" fill="#D7E8DD" stroke="#1F6F50" stroke-width="2"/>
+    <text x="485" y="130" text-anchor="middle" font-weight="700" fill="#1F6F50">Ventas</text>
+    <text x="485" y="160" text-anchor="middle" fill="#333">Cotización → Pedido</text>
+    <text x="485" y="186" text-anchor="middle" fill="#333">de venta confirmado</text>
+
+    <rect x="700" y="90" width="230" height="120" rx="14" fill="#D7E8DD" stroke="#1F6F50" stroke-width="2"/>
+    <text x="815" y="130" text-anchor="middle" font-weight="700" fill="#1F6F50">Inventario</text>
+    <text x="815" y="160" text-anchor="middle" fill="#333">Entrega al cliente</text>
+    <text x="815" y="186" text-anchor="middle" fill="#333">(stock disminuye)</text>
+
+    <rect x="1030" y="90" width="330" height="120" rx="14" fill="#F4EBDD" stroke="#C97B2E" stroke-width="2"/>
+    <text x="1195" y="130" text-anchor="middle" font-weight="700" fill="#C97B2E">Regla de reordenamiento</text>
+    <text x="1195" y="160" text-anchor="middle" fill="#333">¿Stock pronosticado</text>
+    <text x="1195" y="186" text-anchor="middle" fill="#333">por debajo del mínimo?</text>
+  </g>
+  <line x1="270" y1="150" x2="365" y2="150" stroke="#1F6F50" stroke-width="3" marker-end="url(#a)"/>
+  <text x="318" y="138" text-anchor="middle" font-size="15" fill="#1F6F50">Ganado</text>
+  <line x1="600" y1="150" x2="695" y2="150" stroke="#1F6F50" stroke-width="3" marker-end="url(#a)"/>
+  <line x1="930" y1="150" x2="1025" y2="150" stroke="#1F6F50" stroke-width="3" marker-end="url(#a)"/>
+
+  <!-- Fila inferior: ciclo de abastecimiento -->
+  <g font-size="20">
+    <rect x="1030" y="340" width="330" height="120" rx="14" fill="#F4EBDD" stroke="#C97B2E" stroke-width="2"/>
+    <text x="1195" y="380" text-anchor="middle" font-weight="700" fill="#C97B2E">Compras</text>
+    <text x="1195" y="410" text-anchor="middle" fill="#333">Solicitud de cotización automática</text>
+    <text x="1195" y="436" text-anchor="middle" fill="#333">al proveedor preferido</text>
+
+    <rect x="700" y="340" width="230" height="120" rx="14" fill="#F4EBDD" stroke="#C97B2E" stroke-width="2"/>
+    <text x="815" y="380" text-anchor="middle" font-weight="700" fill="#C97B2E">Proveedor</text>
+    <text x="815" y="410" text-anchor="middle" fill="#333">Confirma la orden</text>
+    <text x="815" y="436" text-anchor="middle" fill="#333">de compra</text>
+
+    <rect x="370" y="340" width="230" height="120" rx="14" fill="#D7E8DD" stroke="#1F6F50" stroke-width="2"/>
+    <text x="485" y="380" text-anchor="middle" font-weight="700" fill="#1F6F50">Inventario</text>
+    <text x="485" y="410" text-anchor="middle" fill="#333">Recepción en</text>
+    <text x="485" y="436" text-anchor="middle" fill="#333">Bodega Zona 15</text>
+
+    <rect x="40" y="340" width="230" height="120" rx="14" fill="#D7E8DD" stroke="#1F6F50" stroke-width="2"/>
+    <text x="155" y="380" text-anchor="middle" font-weight="700" fill="#1F6F50">Contabilidad</text>
+    <text x="155" y="410" text-anchor="middle" fill="#333">Facturas, IVA 12%</text>
+    <text x="155" y="436" text-anchor="middle" fill="#333">y valoración</text>
+  </g>
+  <line x1="1195" y1="210" x2="1195" y2="335" stroke="#C97B2E" stroke-width="3" marker-end="url(#b)"/>
+  <text x="1180" y="278" text-anchor="end" font-size="16" fill="#C97B2E">Sí: pedir hasta el máximo</text>
+  <line x1="1030" y1="400" x2="935" y2="400" stroke="#C97B2E" stroke-width="3" marker-end="url(#b)"/>
+  <line x1="700" y1="400" x2="605" y2="400" stroke="#C97B2E" stroke-width="3" marker-end="url(#b)"/>
+  <line x1="370" y1="400" x2="275" y2="400" stroke="#1F6F50" stroke-width="3" marker-end="url(#a)"/>
+  <path d="M485 340 C485 290 815 290 815 215" fill="none" stroke="#1F6F50" stroke-width="3" stroke-dasharray="8 6" marker-end="url(#a)"/>
+  <text x="520" y="328" text-anchor="start" font-size="16" fill="#1F6F50">Stock disponible para nuevas ventas</text>
+  <text x="700" y="520" text-anchor="middle" font-size="17" fill="#44546A">Contactos (clientes y proveedores) es la base compartida por todos los módulos</text>
+</svg>

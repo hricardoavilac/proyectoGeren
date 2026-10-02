@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <rect width="900" height="260" fill="#FFFFFF"/>
+  <!-- Emblema: maceta con hoja de monstera -->
+  <g transform="translate(40,20)">
+    <circle cx="110" cy="110" r="108" fill="#D7E8DD"/>
+    <!-- Tallo -->
+    <path d="M110 165 C110 130 112 110 118 88" stroke="#1F6F50" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <!-- Hoja principal -->
+    <path d="M118 88 C70 80 48 40 70 18 C100 0 160 10 172 50 C182 85 150 100 118 88 Z" fill="#1F6F50"/>
+    <path d="M118 88 C125 65 135 45 150 28" stroke="#D7E8DD" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M85 40 L112 62" stroke="#D7E8DD" stroke-width="5" stroke-linecap="round"/>
+    <path d="M140 72 L168 64" stroke="#D7E8DD" stroke-width="5" stroke-linecap="round"/>
+    <path d="M78 66 L105 76" stroke="#D7E8DD" stroke-width="5" stroke-linecap="round"/>
+    <!-- Hoja secundaria -->
+    <path d="M110 140 C80 140 60 120 62 100 C85 96 108 112 110 140 Z" fill="#5FA37A"/>
+    <!-- Maceta -->
+    <path d="M70 160 L150 160 L140 205 L80 205 Z" fill="#C97B2E"/>
+    <rect x="64" y="152" width="92" height="14" rx="4" fill="#B06A24"/>
+  </g>
+  <!-- Texto -->
+  <text x="285" y="135" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="92" font-weight="700" fill="#1F6F50">Urban<tspan fill="#5FA37A">Jungle</tspan></text>
+  <text x="290" y="190" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="34" fill="#C97B2E" letter-spacing="2">VIVERO EL JARDÍN URBANO</text>
+</svg>

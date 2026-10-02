@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#D7E8DD"/>
+  <!-- Sombra -->
+  <ellipse cx="300" cy="500" rx="210" ry="28" fill="#1F6F50" opacity="0.18"/>
+  <!-- Plantas asomando -->
+  <path d="M250 230 C215 160 230 110 268 100 C285 140 278 190 250 230 Z" fill="#5FA37A"/>
+  <path d="M330 230 C320 150 360 110 410 120 C400 170 370 205 330 230 Z" fill="#1F6F50"/>
+  <path d="M290 235 C290 170 300 130 310 110 C325 150 318 200 290 235 Z" fill="#8FBFA2"/>
+  <!-- Caja kraft -->
+  <path d="M110 230 L490 230 L470 490 L130 490 Z" fill="#C9A06A"/>
+  <path d="M110 230 L490 230 L500 205 L100 205 Z" fill="#B88A50"/>
+  <rect x="285" y="205" width="30" height="285" fill="#E6CFA6" opacity="0.6"/>
+  <!-- Etiqueta -->
+  <rect x="165" y="300" width="270" height="130" rx="14" fill="#FFFFFF"/>
+  <text x="300" y="350" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#1F6F50">Urban<tspan fill="#5FA37A">Jungle</tspan></text>
+  <text x="300" y="385" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" fill="#C97B2E" letter-spacing="1.5">CARE BOX MENSUAL</text>
+  <text x="300" y="412" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#44546A">Fertilizante · Guía de cuidado · Sorpresa</text>
+</svg>

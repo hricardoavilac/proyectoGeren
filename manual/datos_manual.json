@@ -1,0 +1,854 @@
+{
+ "url": "https://usac.odoo.com",
+ "version": "saas~19.4.1.3",
+ "empresa": "UrbanJungle – Vivero El Jardín Urbano",
+ "productos": [
+  {
+   "ref": "UJ-P01",
+   "nombre": "Monstera Deliciosa (maceta 14 cm)",
+   "categoria": "Plantas de Interior",
+   "precio": 185.0,
+   "costo": 92.0,
+   "barcode": "7401202600013",
+   "existencia": 6.0,
+   "pronostico": 25.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P02",
+   "nombre": "Pothos Marble Queen (maceta 12 cm)",
+   "categoria": "Plantas de Interior",
+   "precio": 75.0,
+   "costo": 34.0,
+   "barcode": "7401202600020",
+   "existencia": 15.0,
+   "pronostico": 15.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P03",
+   "nombre": "Sansevieria Trifasciata – Lengua de Suegra",
+   "categoria": "Plantas de Interior",
+   "precio": 95.0,
+   "costo": 44.0,
+   "barcode": "7401202600037",
+   "existencia": 16.0,
+   "pronostico": 16.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P04",
+   "nombre": "Ficus Lyrata – Pandurata (60 cm)",
+   "categoria": "Plantas de Interior",
+   "precio": 265.0,
+   "costo": 135.0,
+   "barcode": "7401202600044",
+   "existencia": 6.0,
+   "pronostico": 24.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P05",
+   "nombre": "Zamioculca – Planta ZZ",
+   "categoria": "Plantas de Interior",
+   "precio": 145.0,
+   "costo": 68.0,
+   "barcode": "7401202600051",
+   "existencia": 18.0,
+   "pronostico": 18.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P06",
+   "nombre": "Calathea Orbifolia",
+   "categoria": "Plantas de Interior",
+   "precio": 135.0,
+   "costo": 64.0,
+   "barcode": "7401202600068",
+   "existencia": 4.0,
+   "pronostico": 23.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P07",
+   "nombre": "Philodendron Corazón Colgante",
+   "categoria": "Plantas de Interior",
+   "precio": 85.0,
+   "costo": 38.0,
+   "barcode": "7401202600075",
+   "existencia": 20.0,
+   "pronostico": 20.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P08",
+   "nombre": "Peperomia Obtusifolia",
+   "categoria": "Plantas de Interior",
+   "precio": 65.0,
+   "costo": 29.0,
+   "barcode": "7401202600082",
+   "existencia": 14.0,
+   "pronostico": 14.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P09",
+   "nombre": "Suculenta Echeveria Elegans",
+   "categoria": "Suculentas y Cactus",
+   "precio": 35.0,
+   "costo": 14.0,
+   "barcode": "7401202600099",
+   "existencia": 6.0,
+   "pronostico": 27.0,
+   "minimo": 10.0,
+   "maximo": 30.0
+  },
+  {
+   "ref": "UJ-P10",
+   "nombre": "Cactus Mammillaria",
+   "categoria": "Suculentas y Cactus",
+   "precio": 40.0,
+   "costo": 17.0,
+   "barcode": "7401202600105",
+   "existencia": 18.0,
+   "pronostico": 18.0,
+   "minimo": 10.0,
+   "maximo": 30.0
+  },
+  {
+   "ref": "UJ-P11",
+   "nombre": "Maceta de Cerámica Negra con Base 12 cm",
+   "categoria": "Macetas y Colgantes",
+   "precio": 95.0,
+   "costo": 42.0,
+   "barcode": "7401202600112",
+   "existencia": 17.0,
+   "pronostico": 17.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P12",
+   "nombre": "Maceta de Barro Clásica 18 cm",
+   "categoria": "Macetas y Colgantes",
+   "precio": 45.0,
+   "costo": 18.0,
+   "barcode": "7401202600129",
+   "existencia": 18.0,
+   "pronostico": 18.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P13",
+   "nombre": "Colgante de Macramé para Maceta",
+   "categoria": "Macetas y Colgantes",
+   "precio": 110.0,
+   "costo": 48.0,
+   "barcode": "7401202600136",
+   "existencia": 19.0,
+   "pronostico": 19.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  },
+  {
+   "ref": "UJ-P14",
+   "nombre": "Sustrato Premium para Interior 5 L",
+   "categoria": "Sustratos y Fertilizantes",
+   "precio": 60.0,
+   "costo": 26.0,
+   "barcode": "7401202600143",
+   "existencia": 22.0,
+   "pronostico": 22.0,
+   "minimo": 10.0,
+   "maximo": 30.0
+  },
+  {
+   "ref": "UJ-P15",
+   "nombre": "Fertilizante Líquido Orgánico 1 L",
+   "categoria": "Sustratos y Fertilizantes",
+   "precio": 75.0,
+   "costo": 33.0,
+   "barcode": "7401202600150",
+   "existencia": 6.0,
+   "pronostico": 28.0,
+   "minimo": 10.0,
+   "maximo": 30.0
+  },
+  {
+   "ref": "UJ-P16",
+   "nombre": "Humus de Lombriz 2 kg",
+   "categoria": "Sustratos y Fertilizantes",
+   "precio": 45.0,
+   "costo": 19.0,
+   "barcode": "7401202600167",
+   "existencia": 17.0,
+   "pronostico": 17.0,
+   "minimo": 10.0,
+   "maximo": 30.0
+  },
+  {
+   "ref": "UJ-P17",
+   "nombre": "Regadera Metálica 1.5 L",
+   "categoria": "Herramientas y Accesorios",
+   "precio": 125.0,
+   "costo": 58.0,
+   "barcode": "7401202600174",
+   "existencia": 14.0,
+   "pronostico": 14.0,
+   "minimo": 6.0,
+   "maximo": 20.0
+  },
+  {
+   "ref": "UJ-P18",
+   "nombre": "Atomizador para Plantas 500 ml",
+   "categoria": "Herramientas y Accesorios",
+   "precio": 35.0,
+   "costo": 14.0,
+   "barcode": "7401202600181",
+   "existencia": 15.0,
+   "pronostico": 15.0,
+   "minimo": 6.0,
+   "maximo": 20.0
+  },
+  {
+   "ref": "UJ-P19",
+   "nombre": "Pala de Trasplante de Acero",
+   "categoria": "Herramientas y Accesorios",
+   "precio": 55.0,
+   "costo": 24.0,
+   "barcode": "7401202600198",
+   "existencia": 16.0,
+   "pronostico": 16.0,
+   "minimo": 6.0,
+   "maximo": 20.0
+  },
+  {
+   "ref": "UJ-P20",
+   "nombre": "UrbanJungle Care Box – Suscripción Mensual",
+   "categoria": "Suscripciones",
+   "precio": 179.0,
+   "costo": 82.0,
+   "barcode": "7401202600204",
+   "existencia": 5.0,
+   "pronostico": 23.0,
+   "minimo": 8.0,
+   "maximo": 25.0
+  }
+ ],
+ "proveedores": [
+  {
+   "nombre": "Viveros Mayoristas del Pacífico, S.A.",
+   "nit": "4521873-0",
+   "ciudad": "Escuintla",
+   "telefono": "+502 7880 1520",
+   "rubro": "Plantas",
+   "productos": [
+    "Pothos Marble Queen (maceta 12 cm)",
+    "Zamioculca – Planta ZZ",
+    "Monstera Deliciosa (maceta 14 cm)"
+   ]
+  },
+  {
+   "nombre": "Tropical Plants Guatemala, S.A.",
+   "nit": "6817342-3",
+   "ciudad": "Fraijanes",
+   "telefono": "+502 2479 3311",
+   "rubro": "Plantas",
+   "productos": [
+    "Calathea Orbifolia",
+    "Monstera Deliciosa (maceta 14 cm)",
+    "Ficus Lyrata – Pandurata (60 cm)"
+   ]
+  },
+  {
+   "nombre": "Vivero Las Orquídeas de Amatitlán",
+   "nit": "3389015-3",
+   "ciudad": "Amatitlán",
+   "telefono": "+502 6633 2047",
+   "rubro": "Plantas",
+   "productos": [
+    "Peperomia Obtusifolia",
+    "Philodendron Corazón Colgante",
+    "Sansevieria Trifasciata – Lengua de Suegra"
+   ]
+  },
+  {
+   "nombre": "Agroexportadora Verde Maya, S.A.",
+   "nit": "8102457-6",
+   "ciudad": "Antigua Guatemala",
+   "telefono": "+502 7832 6690",
+   "rubro": "Plantas",
+   "productos": [
+    "Calathea Orbifolia",
+    "Zamioculca – Planta ZZ",
+    "Ficus Lyrata – Pandurata (60 cm)"
+   ]
+  },
+  {
+   "nombre": "Follajes de Escuintla",
+   "nit": "2976431-9",
+   "ciudad": "Escuintla",
+   "telefono": "+502 7888 4102",
+   "rubro": "Plantas",
+   "productos": [
+    "Peperomia Obtusifolia",
+    "Pothos Marble Queen (maceta 12 cm)",
+    "Philodendron Corazón Colgante"
+   ]
+  },
+  {
+   "nombre": "Plantas Ornamentales San Lucas",
+   "nit": "5730186-7",
+   "ciudad": "San Lucas Sacatepéquez",
+   "telefono": "+502 7830 9054",
+   "rubro": "Plantas",
+   "productos": [
+    "Sansevieria Trifasciata – Lengua de Suegra",
+    "Calathea Orbifolia",
+    "Monstera Deliciosa (maceta 14 cm)"
+   ]
+  },
+  {
+   "nombre": "Jardines de Antigua Mayoristas",
+   "nit": "7364520-6",
+   "ciudad": "Antigua Guatemala",
+   "telefono": "+502 7832 1178",
+   "rubro": "Plantas",
+   "productos": [
+    "Peperomia Obtusifolia",
+    "Pothos Marble Queen (maceta 12 cm)",
+    "Ficus Lyrata – Pandurata (60 cm)"
+   ]
+  },
+  {
+   "nombre": "Vivero El Cafetal",
+   "nit": "1958742-2",
+   "ciudad": "Palín",
+   "telefono": "+502 7885 3360",
+   "rubro": "Plantas",
+   "productos": [
+    "Philodendron Corazón Colgante",
+    "Sansevieria Trifasciata – Lengua de Suegra",
+    "Zamioculca – Planta ZZ"
+   ]
+  },
+  {
+   "nombre": "Suculentas y Cactus de Oriente",
+   "nit": "4415609-K",
+   "ciudad": "Zacapa",
+   "telefono": "+502 7941 2285",
+   "rubro": "Suculentas",
+   "productos": [
+    "Suculenta Echeveria Elegans",
+    "Cactus Mammillaria",
+    "Maceta de Barro Clásica 18 cm"
+   ]
+  },
+  {
+   "nombre": "Cactario Valle del Motagua",
+   "nit": "6093318-6",
+   "ciudad": "Estanzuela",
+   "telefono": "+502 7934 5801",
+   "rubro": "Suculentas",
+   "productos": [
+    "Suculenta Echeveria Elegans",
+    "Cactus Mammillaria",
+    "Sustrato Premium para Interior 5 L"
+   ]
+  },
+  {
+   "nombre": "Cerámica Artesanal de Totonicapán",
+   "nit": "3027764-7",
+   "ciudad": "Totonicapán",
+   "telefono": "+502 7766 1029",
+   "rubro": "Macetas",
+   "productos": [
+    "Maceta de Barro Clásica 18 cm",
+    "Maceta de Cerámica Negra con Base 12 cm",
+    "Colgante de Macramé para Maceta"
+   ]
+  },
+  {
+   "nombre": "Alfarería Chinautla",
+   "nit": "2580491-K",
+   "ciudad": "Chinautla",
+   "telefono": "+502 2445 7613",
+   "rubro": "Macetas",
+   "productos": [
+    "Maceta de Barro Clásica 18 cm",
+    "Maceta de Cerámica Negra con Base 12 cm",
+    "Colgante de Macramé para Maceta"
+   ]
+  },
+  {
+   "nombre": "Textiles y Macramé Atitlán",
+   "nit": "9146205-3",
+   "ciudad": "Santiago Atitlán",
+   "telefono": "+502 7721 8840",
+   "rubro": "Macetas",
+   "productos": [
+    "Maceta de Barro Clásica 18 cm",
+    "Maceta de Cerámica Negra con Base 12 cm",
+    "Colgante de Macramé para Maceta"
+   ]
+  },
+  {
+   "nombre": "Distribuidora Plastigua, S.A.",
+   "nit": "5508923-2",
+   "ciudad": "Guatemala",
+   "telefono": "+502 2434 6075",
+   "rubro": "Accesorios",
+   "productos": [
+    "Atomizador para Plantas 500 ml",
+    "Maceta de Barro Clásica 18 cm",
+    "Regadera Metálica 1.5 L"
+   ]
+  },
+  {
+   "nombre": "Agroinsumos La Cosecha, S.A.",
+   "nit": "7781046-5",
+   "ciudad": "Guatemala",
+   "telefono": "+502 2440 8812",
+   "rubro": "Insumos",
+   "productos": [
+    "Humus de Lombriz 2 kg",
+    "Sustrato Premium para Interior 5 L",
+    "Fertilizante Líquido Orgánico 1 L"
+   ]
+  },
+  {
+   "nombre": "Lombricompost Chimaltenango",
+   "nit": "3652870-6",
+   "ciudad": "Chimaltenango",
+   "telefono": "+502 7839 4416",
+   "rubro": "Insumos",
+   "productos": [
+    "Humus de Lombriz 2 kg",
+    "Sustrato Premium para Interior 5 L",
+    "Fertilizante Líquido Orgánico 1 L"
+   ]
+  },
+  {
+   "nombre": "Fertilizantes Orgánicos del Altiplano",
+   "nit": "8820357-3",
+   "ciudad": "Quetzaltenango",
+   "telefono": "+502 7767 3301",
+   "rubro": "Insumos",
+   "productos": [
+    "Humus de Lombriz 2 kg",
+    "Fertilizante Líquido Orgánico 1 L",
+    "UrbanJungle Care Box – Suscripción Mensual"
+   ]
+  },
+  {
+   "nombre": "Agroservicio El Sembrador",
+   "nit": "1407683-7",
+   "ciudad": "Villa Nueva",
+   "telefono": "+502 6630 5590",
+   "rubro": "Insumos",
+   "productos": [
+    "Pala de Trasplante de Acero",
+    "Sustrato Premium para Interior 5 L",
+    "Fertilizante Líquido Orgánico 1 L"
+   ]
+  },
+  {
+   "nombre": "Ferretería Industrial El Martillo",
+   "nit": "6239015-5",
+   "ciudad": "Guatemala",
+   "telefono": "+502 2251 0937",
+   "rubro": "Accesorios",
+   "productos": [
+    "Atomizador para Plantas 500 ml",
+    "Pala de Trasplante de Acero",
+    "Regadera Metálica 1.5 L"
+   ]
+  },
+  {
+   "nombre": "Empaques Kraft de Guatemala, S.A.",
+   "nit": "4970528-8",
+   "ciudad": "Mixco",
+   "telefono": "+502 2385 6620",
+   "rubro": "Accesorios",
+   "productos": [
+    "Atomizador para Plantas 500 ml",
+    "Regadera Metálica 1.5 L",
+    "UrbanJungle Care Box – Suscripción Mensual"
+   ]
+  }
+ ],
+ "clientes": [
+  {
+   "nombre": "Ana Lucía Herrera Pineda",
+   "nit": "4106385-6",
+   "telefono": "+502 3021 7745",
+   "direccion": "Residenciales San Cristóbal, Sector B, Mixco",
+   "empleador": "Hospital Integral Las Américas",
+   "etiqueta": "Cliente Frecuente"
+  },
+  {
+   "nombre": "Andrea Paola Sánchez Ordóñez",
+   "nit": "2738460-8",
+   "telefono": "+502 5021 9930",
+   "direccion": "Condominio Lomas de Pinula, Casa 5, Santa Catarina Pinula",
+   "empleador": "Estudio Jurídico Sánchez & Asociados",
+   "etiqueta": "Cliente VIP"
+  },
+  {
+   "nombre": "Andrés Felipe Reyes Batres",
+   "nit": "1845372-4",
+   "telefono": "+502 3107 4459",
+   "direccion": "Colonia Monte Real, 2a Calle, Mixco",
+   "empleador": "Logística Express Centroamérica",
+   "etiqueta": "Cliente Ocasional"
+  },
+  {
+   "nombre": "Camila Beatriz Ortiz Villatoro",
+   "nit": "3170594-4",
+   "telefono": "+502 3654 8810",
+   "direccion": "Residenciales Las Luces, Casa 31, Villa Nueva",
+   "empleador": "Clínica Dental Sonríe",
+   "etiqueta": "Cliente Nuevo"
+  },
+  {
+   "nombre": "Carlos Andrés Méndez Ruiz",
+   "nit": "3917024-1",
+   "telefono": "+502 4478 2091",
+   "direccion": "12 Calle 1-25, Zona 10, Guatemala",
+   "empleador": "Tecnologías Quetzal, S.A.",
+   "etiqueta": "Cliente Frecuente"
+  },
+  {
+   "nombre": "Daniela Sofía Flores Barrios",
+   "nit": "1592846-2",
+   "telefono": "+502 4466 7812",
+   "direccion": "Colonia Villa Hermosa I, Lote 8, San Miguel Petapa",
+   "empleador": "Colegio Bilingüe El Roble",
+   "etiqueta": "Suscriptor Care Box"
+  },
+  {
+   "nombre": "Diego Fernando López Arriaga",
+   "nit": "6630497-0",
+   "telefono": "+502 3345 2290",
+   "direccion": "Colonia Molino de las Flores, 3a Av, Mixco",
+   "empleador": "Cervecería Artesanal Volcán",
+   "etiqueta": "Cliente Ocasional"
+  },
+  {
+   "nombre": "Emilio José Hernández Salazar",
+   "nit": "2468139-3",
+   "telefono": "+502 5165 6603",
+   "direccion": "Diagonal 6 13-01, Zona 10, Guatemala",
+   "empleador": "Agencia de Viajes Quetzaltour",
+   "etiqueta": "Cliente VIP"
+  },
+  {
+   "nombre": "Fernanda Gabriela Lemus Arévalo",
+   "nit": "2915038-8",
+   "telefono": "+502 4378 6624",
+   "direccion": "13 Avenida 11-30, Zona 14, Guatemala",
+   "empleador": "Restaurante Raíces Chapinas",
+   "etiqueta": "Cliente VIP"
+  },
+  {
+   "nombre": "Fernando José Morales Aguilar",
+   "nit": "5389127-9",
+   "telefono": "+502 4187 2265",
+   "direccion": "Calzada Aguilar Batres 34-70, Zona 11, Guatemala",
+   "empleador": "Distribuidora Alimentos del Valle",
+   "etiqueta": "Cliente Ocasional"
+  },
+  {
+   "nombre": "Gabriela Fernanda Ramírez Ochoa",
+   "nit": "3561290-8",
+   "telefono": "+502 3218 6654",
+   "direccion": "Avenida Petapa 45-10, Zona 12, Guatemala",
+   "empleador": "Farmacias Bienestar",
+   "etiqueta": "Cliente Nuevo"
+  },
+  {
+   "nombre": "Héctor Daniel Ponce Alvarado",
+   "nit": "5806147-9",
+   "telefono": "+502 4212 0056",
+   "direccion": "Boulevard Los Próceres 24-69, Zona 10, Guatemala",
+   "empleador": "Corporación Financiera Atlántida",
+   "etiqueta": "Cliente Nuevo"
+  },
+  {
+   "nombre": "Isabella María Juárez Cifuentes",
+   "nit": "7031846-8",
+   "telefono": "+502 4298 7703",
+   "direccion": "Carretera a El Salvador Km 13, Condominio Vistas, Santa Catarina Pinula",
+   "empleador": "Hotel Boutique Casa Colonial",
+   "etiqueta": "Suscriptor Care Box"
+  },
+  {
+   "nombre": "Javier Alejandro Torres Monzón",
+   "nit": "4893015-6",
+   "telefono": "+502 5734 0098",
+   "direccion": "Bosques de San Nicolás, Casa 22, Mixco",
+   "empleador": "Constructora Pilares",
+   "etiqueta": "Cliente Ocasional"
+  },
+  {
+   "nombre": "José Pablo García Morales",
+   "nit": "1983470-5",
+   "telefono": "+502 5590 1132",
+   "direccion": "Condado Concepción, Casa 14, Santa Catarina Pinula",
+   "empleador": "Consultores Asociados Maya",
+   "etiqueta": "Cliente Nuevo"
+  },
+  {
+   "nombre": "Lucía Fernanda Aldana Mejía",
+   "nit": "4370582-0",
+   "telefono": "+502 4551 3320",
+   "direccion": "Condominio Puerta de Hierro, Casa 3, Fraijanes",
+   "empleador": "Veterinaria Patitas Felices",
+   "etiqueta": "Cliente Ocasional"
+  },
+  {
+   "nombre": "Luis Eduardo Pérez Solórzano",
+   "nit": "7458102-3",
+   "telefono": "+502 4009 3376",
+   "direccion": "Km 18.5 Carretera a El Salvador, Fraijanes",
+   "empleador": "Exportadora Café Montaña",
+   "etiqueta": "Cliente VIP"
+  },
+  {
+   "nombre": "Manuel Alejandro Recinos Paiz",
+   "nit": "7915264-3",
+   "telefono": "+502 3476 9081",
+   "direccion": "Avenida Hincapié 20-55, Zona 13, Guatemala",
+   "empleador": "Aerolíneas Mundo Maya",
+   "etiqueta": "Cliente Frecuente"
+  },
+  {
+   "nombre": "Mariana Lucía Castañeda Rivas",
+   "nit": "6297015-1",
+   "telefono": "+502 5688 2234",
+   "direccion": "Calzada Atanasio Tzul 22-00, Zona 12, Guatemala",
+   "empleador": "Panadería San Martín de Porres",
+   "etiqueta": "Cliente Frecuente"
+  },
+  {
+   "nombre": "María José Castillo López",
+   "nit": "2845019-1",
+   "telefono": "+502 5512 3348",
+   "direccion": "Bulevar Vista Hermosa 18-40, Zona 15, Guatemala",
+   "empleador": "Banco Agrícola del Altiplano",
+   "etiqueta": "Suscriptor Care Box"
+  },
+  {
+   "nombre": "Mateo Esteban Figueroa Duarte",
+   "nit": "4250916-5",
+   "telefono": "+502 3027 5539",
+   "direccion": "Colonia Santa Inés, 3a Calle, San Miguel Petapa",
+   "empleador": "Startup EcoRuta",
+   "etiqueta": "Cliente Nuevo"
+  },
+  {
+   "nombre": "Natalia Sofía Girón Escobar",
+   "nit": "1624793-0",
+   "telefono": "+502 5309 4478",
+   "direccion": "Colonia El Naranjo, 5a Avenida, Mixco",
+   "empleador": "Estudio de Arquitectura Bioclima",
+   "etiqueta": "Suscriptor Care Box"
+  },
+  {
+   "nombre": "Pablo Ernesto Chávez Lima",
+   "nit": "4682093-0",
+   "telefono": "+502 5543 1176",
+   "direccion": "Avenida Reforma 8-60, Zona 9, Guatemala",
+   "empleador": "Seguros La Ceiba",
+   "etiqueta": "Cliente Frecuente"
+  },
+  {
+   "nombre": "Paula Andrea Vásquez Toledo",
+   "nit": "5143928-K",
+   "telefono": "+502 3289 1145",
+   "direccion": "Colonia Arrivillaga, 14 Calle, San Miguel Petapa",
+   "empleador": "Escuela de Yoga Prana",
+   "etiqueta": "Suscriptor Care Box"
+  },
+  {
+   "nombre": "Regina Alejandra Molina Quiñónez",
+   "nit": "3047285-7",
+   "telefono": "+502 3155 7792",
+   "direccion": "Residenciales Prados de Villa Nueva, Villa Nueva",
+   "empleador": "Colegio Montessori Los Pinos",
+   "etiqueta": "Cliente Frecuente"
+  },
+  {
+   "nombre": "Ricardo Antonio Gómez Estrada",
+   "nit": "6025731-8",
+   "telefono": "+502 3390 5547",
+   "direccion": "6a Avenida 7-39, Zona 4, Guatemala",
+   "empleador": "Café Barista Cuatro Grados",
+   "etiqueta": "Cliente Frecuente"
+  },
+  {
+   "nombre": "Sebastián Alejandro Muñoz Girón",
+   "nit": "3824601-5",
+   "telefono": "+502 4033 9987",
+   "direccion": "Residenciales Catalina, Casa 47, Villa Nueva",
+   "empleador": "Desarrollos Inmobiliarios Altamira",
+   "etiqueta": "Cliente Nuevo"
+  },
+  {
+   "nombre": "Sofía Alejandra Rodríguez Paz",
+   "nit": "5274813-8",
+   "telefono": "+502 4120 8876",
+   "direccion": "Avenida Las Américas 9-50, Zona 13, Guatemala",
+   "empleador": "Universidad Panamericana del Norte",
+   "etiqueta": "Suscriptor Care Box"
+  },
+  {
+   "nombre": "Valeria Isabel Martínez Cruz",
+   "nit": "2209638-8",
+   "telefono": "+502 5876 4421",
+   "direccion": "Ciudad San Cristóbal, Sector A1, Mixco",
+   "empleador": "Agencia Creativa Jade",
+   "etiqueta": "Cliente Frecuente"
+  },
+  {
+   "nombre": "Óscar Rafael Cabrera Sandoval",
+   "nit": "6573910-8",
+   "telefono": "+502 5432 8817",
+   "direccion": "Km 20 Carretera a El Salvador, Condominio Gardenias, Fraijanes",
+   "empleador": "Ingenio Azucarero La Unión",
+   "etiqueta": "Cliente Ocasional"
+  }
+ ],
+ "compras": [
+  {
+   "nombre": "P00001",
+   "proveedor": "Lombricompost Chimaltenango",
+   "estado": "draft",
+   "origen": "OP/00015",
+   "total": 696.96,
+   "lineas": [
+    "Fertilizante Líquido Orgánico 1 L × 22"
+   ]
+  },
+  {
+   "nombre": "P00002",
+   "proveedor": "Suculentas y Cactus de Oriente",
+   "estado": "draft",
+   "origen": "OP/00009",
+   "total": 288.12,
+   "lineas": [
+    "Suculenta Echeveria Elegans × 21"
+   ]
+  },
+  {
+   "nombre": "P00003",
+   "proveedor": "Agroexportadora Verde Maya, S.A.",
+   "estado": "draft",
+   "origen": "OP/00006, OP/00004",
+   "total": 3500.16,
+   "lineas": [
+    "Calathea Orbifolia × 19",
+    "Ficus Lyrata – Pandurata (60 cm) × 18"
+   ]
+  },
+  {
+   "nombre": "P00004",
+   "proveedor": "Empaques Kraft de Guatemala, S.A.",
+   "estado": "draft",
+   "origen": "OP/00020",
+   "total": 1416.96,
+   "lineas": [
+    "UrbanJungle Care Box – Suscripción Mensual × 18"
+   ]
+  },
+  {
+   "nombre": "P00005",
+   "proveedor": "Viveros Mayoristas del Pacífico, S.A.",
+   "estado": "draft",
+   "origen": "OP/00001",
+   "total": 1713.04,
+   "lineas": [
+    "Monstera Deliciosa (maceta 14 cm) × 19"
+   ]
+  }
+ ],
+ "ventas": {
+  "cantidad": 50,
+  "total": 15798.0,
+  "clientes": 30,
+  "desde": "2026-09-01",
+  "hasta": "2026-09-29",
+  "lineas": 110,
+  "top": [
+   [
+    "UrbanJungle Care Box – Suscripción Mensual",
+    17.0
+   ],
+   [
+    "Peperomia Obtusifolia",
+    13.0
+   ],
+   [
+    "Atomizador para Plantas 500 ml",
+    12.0
+   ],
+   [
+    "Maceta de Barro Clásica 18 cm",
+    12.0
+   ],
+   [
+    "Zamioculca – Planta ZZ",
+    11.0
+   ]
+  ]
+ },
+ "pipeline": [
+  {
+   "etapa": "Nuevo prospecto",
+   "cantidad": 6,
+   "ganado": false
+  },
+  {
+   "etapa": "Contactado",
+   "cantidad": 6,
+   "ganado": false
+  },
+  {
+   "etapa": "Cotización enviada",
+   "cantidad": 4,
+   "ganado": false
+  },
+  {
+   "etapa": "Negociación",
+   "cantidad": 4,
+   "ganado": false
+  },
+  {
+   "etapa": "Ganado – Cliente activo",
+   "cantidad": 10,
+   "ganado": true
+  }
+ ],
+ "plantillas": [
+  "UrbanJungle – Fidelización: Gracias por crecer con nosotros",
+  "UrbanJungle – Promoción Especial: Semana Urban Jungle"
+ ],
+ "kpi": {
+  "ticket_promedio": 315.96,
+  "conversion": 0.3333333333333333,
+  "suscriptores": 6,
+  "recompra": 0.36666666666666664,
+  "nivel_servicio": 1.0,
+  "entregas_a_tiempo": 1.0,
+  "productos_bajo_minimo": 6
+ }
+}
