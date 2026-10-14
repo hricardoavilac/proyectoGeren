@@ -40,7 +40,8 @@ def etiqueta(nombre, color):
 
 
 def contacto(vals):
-    ids = call("res.partner", "search", domain=[["vat", "=", vals["vat"]]])
+    # Odoo 20 guarda el NIT sin guion; se busca en ambos formatos para no duplicar
+    ids = call("res.partner", "search", domain=[["vat", "in", [vals["vat"], vals["vat"].replace("-", "")]]])
     if ids:
         call("res.partner", "write", ids=ids, vals=vals)
         return ids[0]

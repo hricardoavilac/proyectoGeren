@@ -1,6 +1,6 @@
 {
- "url": "https://usac.odoo.com",
- "version": "saas~19.4.1.3",
+ "url": "https://usac-g3.odoo.com",
+ "version": "20.0.1.3",
  "empresa": "UrbanJungle – Vivero El Jardín Urbano",
  "productos": [
   {
@@ -247,7 +247,7 @@
  "proveedores": [
   {
    "nombre": "Viveros Mayoristas del Pacífico, S.A.",
-   "nit": "4521873-0",
+   "nit": "45218730",
    "ciudad": "Escuintla",
    "telefono": "+502 7880 1520",
    "rubro": "Plantas",
@@ -259,7 +259,7 @@
   },
   {
    "nombre": "Tropical Plants Guatemala, S.A.",
-   "nit": "6817342-3",
+   "nit": "68173423",
    "ciudad": "Fraijanes",
    "telefono": "+502 2479 3311",
    "rubro": "Plantas",
@@ -271,7 +271,7 @@
   },
   {
    "nombre": "Vivero Las Orquídeas de Amatitlán",
-   "nit": "3389015-3",
+   "nit": "33890153",
    "ciudad": "Amatitlán",
    "telefono": "+502 6633 2047",
    "rubro": "Plantas",
@@ -283,7 +283,7 @@
   },
   {
    "nombre": "Agroexportadora Verde Maya, S.A.",
-   "nit": "8102457-6",
+   "nit": "81024576",
    "ciudad": "Antigua Guatemala",
    "telefono": "+502 7832 6690",
    "rubro": "Plantas",
@@ -295,7 +295,7 @@
   },
   {
    "nombre": "Follajes de Escuintla",
-   "nit": "2976431-9",
+   "nit": "29764319",
    "ciudad": "Escuintla",
    "telefono": "+502 7888 4102",
    "rubro": "Plantas",
@@ -307,7 +307,7 @@
   },
   {
    "nombre": "Plantas Ornamentales San Lucas",
-   "nit": "5730186-7",
+   "nit": "57301867",
    "ciudad": "San Lucas Sacatepéquez",
    "telefono": "+502 7830 9054",
    "rubro": "Plantas",
@@ -319,7 +319,7 @@
   },
   {
    "nombre": "Jardines de Antigua Mayoristas",
-   "nit": "7364520-6",
+   "nit": "73645206",
    "ciudad": "Antigua Guatemala",
    "telefono": "+502 7832 1178",
    "rubro": "Plantas",
@@ -331,7 +331,7 @@
   },
   {
    "nombre": "Vivero El Cafetal",
-   "nit": "1958742-2",
+   "nit": "19587422",
    "ciudad": "Palín",
    "telefono": "+502 7885 3360",
    "rubro": "Plantas",
@@ -343,7 +343,7 @@
   },
   {
    "nombre": "Suculentas y Cactus de Oriente",
-   "nit": "4415609-K",
+   "nit": "4415609K",
    "ciudad": "Zacapa",
    "telefono": "+502 7941 2285",
    "rubro": "Suculentas",
@@ -355,7 +355,7 @@
   },
   {
    "nombre": "Cactario Valle del Motagua",
-   "nit": "6093318-6",
+   "nit": "60933186",
    "ciudad": "Estanzuela",
    "telefono": "+502 7934 5801",
    "rubro": "Suculentas",
@@ -367,7 +367,7 @@
   },
   {
    "nombre": "Cerámica Artesanal de Totonicapán",
-   "nit": "3027764-7",
+   "nit": "30277647",
    "ciudad": "Totonicapán",
    "telefono": "+502 7766 1029",
    "rubro": "Macetas",
@@ -379,7 +379,7 @@
   },
   {
    "nombre": "Alfarería Chinautla",
-   "nit": "2580491-K",
+   "nit": "2580491K",
    "ciudad": "Chinautla",
    "telefono": "+502 2445 7613",
    "rubro": "Macetas",
@@ -391,7 +391,7 @@
   },
   {
    "nombre": "Textiles y Macramé Atitlán",
-   "nit": "9146205-3",
+   "nit": "91462053",
    "ciudad": "Santiago Atitlán",
    "telefono": "+502 7721 8840",
    "rubro": "Macetas",
@@ -403,7 +403,7 @@
   },
   {
    "nombre": "Distribuidora Plastigua, S.A.",
-   "nit": "5508923-2",
+   "nit": "55089232",
    "ciudad": "Guatemala",
    "telefono": "+502 2434 6075",
    "rubro": "Accesorios",
@@ -415,7 +415,7 @@
   },
   {
    "nombre": "Agroinsumos La Cosecha, S.A.",
-   "nit": "7781046-5",
+   "nit": "77810465",
    "ciudad": "Guatemala",
    "telefono": "+502 2440 8812",
    "rubro": "Insumos",
@@ -427,7 +427,7 @@
   },
   {
    "nombre": "Lombricompost Chimaltenango",
-   "nit": "3652870-6",
+   "nit": "36528706",
    "ciudad": "Chimaltenango",
    "telefono": "+502 7839 4416",
    "rubro": "Insumos",
@@ -439,7 +439,7 @@
   },
   {
    "nombre": "Fertilizantes Orgánicos del Altiplano",
-   "nit": "8820357-3",
+   "nit": "88203573",
    "ciudad": "Quetzaltenango",
    "telefono": "+502 7767 3301",
    "rubro": "Insumos",
@@ -451,7 +451,7 @@
   },
   {
    "nombre": "Agroservicio El Sembrador",
-   "nit": "1407683-7",
+   "nit": "14076837",
    "ciudad": "Villa Nueva",
    "telefono": "+502 6630 5590",
    "rubro": "Insumos",
@@ -463,7 +463,7 @@
   },
   {
    "nombre": "Ferretería Industrial El Martillo",
-   "nit": "6239015-5",
+   "nit": "62390155",
    "ciudad": "Guatemala",
    "telefono": "+502 2251 0937",
    "rubro": "Accesorios",
@@ -475,7 +475,7 @@
   },
   {
    "nombre": "Empaques Kraft de Guatemala, S.A.",
-   "nit": "4970528-8",
+   "nit": "49705288",
    "ciudad": "Mixco",
    "telefono": "+502 2385 6620",
    "rubro": "Accesorios",
@@ -489,7 +489,7 @@
  "clientes": [
   {
    "nombre": "Ana Lucía Herrera Pineda",
-   "nit": "4106385-6",
+   "nit": "41063856",
    "telefono": "+502 3021 7745",
    "direccion": "Residenciales San Cristóbal, Sector B, Mixco",
    "empleador": "Hospital Integral Las Américas",
@@ -497,7 +497,7 @@
   },
   {
    "nombre": "Andrea Paola Sánchez Ordóñez",
-   "nit": "2738460-8",
+   "nit": "27384608",
    "telefono": "+502 5021 9930",
    "direccion": "Condominio Lomas de Pinula, Casa 5, Santa Catarina Pinula",
    "empleador": "Estudio Jurídico Sánchez & Asociados",
@@ -505,7 +505,7 @@
   },
   {
    "nombre": "Andrés Felipe Reyes Batres",
-   "nit": "1845372-4",
+   "nit": "18453724",
    "telefono": "+502 3107 4459",
    "direccion": "Colonia Monte Real, 2a Calle, Mixco",
    "empleador": "Logística Express Centroamérica",
@@ -513,7 +513,7 @@
   },
   {
    "nombre": "Camila Beatriz Ortiz Villatoro",
-   "nit": "3170594-4",
+   "nit": "31705944",
    "telefono": "+502 3654 8810",
    "direccion": "Residenciales Las Luces, Casa 31, Villa Nueva",
    "empleador": "Clínica Dental Sonríe",
@@ -521,7 +521,7 @@
   },
   {
    "nombre": "Carlos Andrés Méndez Ruiz",
-   "nit": "3917024-1",
+   "nit": "39170241",
    "telefono": "+502 4478 2091",
    "direccion": "12 Calle 1-25, Zona 10, Guatemala",
    "empleador": "Tecnologías Quetzal, S.A.",
@@ -529,7 +529,7 @@
   },
   {
    "nombre": "Daniela Sofía Flores Barrios",
-   "nit": "1592846-2",
+   "nit": "15928462",
    "telefono": "+502 4466 7812",
    "direccion": "Colonia Villa Hermosa I, Lote 8, San Miguel Petapa",
    "empleador": "Colegio Bilingüe El Roble",
@@ -537,7 +537,7 @@
   },
   {
    "nombre": "Diego Fernando López Arriaga",
-   "nit": "6630497-0",
+   "nit": "66304970",
    "telefono": "+502 3345 2290",
    "direccion": "Colonia Molino de las Flores, 3a Av, Mixco",
    "empleador": "Cervecería Artesanal Volcán",
@@ -545,7 +545,7 @@
   },
   {
    "nombre": "Emilio José Hernández Salazar",
-   "nit": "2468139-3",
+   "nit": "24681393",
    "telefono": "+502 5165 6603",
    "direccion": "Diagonal 6 13-01, Zona 10, Guatemala",
    "empleador": "Agencia de Viajes Quetzaltour",
@@ -553,7 +553,7 @@
   },
   {
    "nombre": "Fernanda Gabriela Lemus Arévalo",
-   "nit": "2915038-8",
+   "nit": "29150388",
    "telefono": "+502 4378 6624",
    "direccion": "13 Avenida 11-30, Zona 14, Guatemala",
    "empleador": "Restaurante Raíces Chapinas",
@@ -561,7 +561,7 @@
   },
   {
    "nombre": "Fernando José Morales Aguilar",
-   "nit": "5389127-9",
+   "nit": "53891279",
    "telefono": "+502 4187 2265",
    "direccion": "Calzada Aguilar Batres 34-70, Zona 11, Guatemala",
    "empleador": "Distribuidora Alimentos del Valle",
@@ -569,7 +569,7 @@
   },
   {
    "nombre": "Gabriela Fernanda Ramírez Ochoa",
-   "nit": "3561290-8",
+   "nit": "35612908",
    "telefono": "+502 3218 6654",
    "direccion": "Avenida Petapa 45-10, Zona 12, Guatemala",
    "empleador": "Farmacias Bienestar",
@@ -577,7 +577,7 @@
   },
   {
    "nombre": "Héctor Daniel Ponce Alvarado",
-   "nit": "5806147-9",
+   "nit": "58061479",
    "telefono": "+502 4212 0056",
    "direccion": "Boulevard Los Próceres 24-69, Zona 10, Guatemala",
    "empleador": "Corporación Financiera Atlántida",
@@ -585,7 +585,7 @@
   },
   {
    "nombre": "Isabella María Juárez Cifuentes",
-   "nit": "7031846-8",
+   "nit": "70318468",
    "telefono": "+502 4298 7703",
    "direccion": "Carretera a El Salvador Km 13, Condominio Vistas, Santa Catarina Pinula",
    "empleador": "Hotel Boutique Casa Colonial",
@@ -593,7 +593,7 @@
   },
   {
    "nombre": "Javier Alejandro Torres Monzón",
-   "nit": "4893015-6",
+   "nit": "48930156",
    "telefono": "+502 5734 0098",
    "direccion": "Bosques de San Nicolás, Casa 22, Mixco",
    "empleador": "Constructora Pilares",
@@ -601,7 +601,7 @@
   },
   {
    "nombre": "José Pablo García Morales",
-   "nit": "1983470-5",
+   "nit": "19834705",
    "telefono": "+502 5590 1132",
    "direccion": "Condado Concepción, Casa 14, Santa Catarina Pinula",
    "empleador": "Consultores Asociados Maya",
@@ -609,7 +609,7 @@
   },
   {
    "nombre": "Lucía Fernanda Aldana Mejía",
-   "nit": "4370582-0",
+   "nit": "43705820",
    "telefono": "+502 4551 3320",
    "direccion": "Condominio Puerta de Hierro, Casa 3, Fraijanes",
    "empleador": "Veterinaria Patitas Felices",
@@ -617,7 +617,7 @@
   },
   {
    "nombre": "Luis Eduardo Pérez Solórzano",
-   "nit": "7458102-3",
+   "nit": "74581023",
    "telefono": "+502 4009 3376",
    "direccion": "Km 18.5 Carretera a El Salvador, Fraijanes",
    "empleador": "Exportadora Café Montaña",
@@ -625,7 +625,7 @@
   },
   {
    "nombre": "Manuel Alejandro Recinos Paiz",
-   "nit": "7915264-3",
+   "nit": "79152643",
    "telefono": "+502 3476 9081",
    "direccion": "Avenida Hincapié 20-55, Zona 13, Guatemala",
    "empleador": "Aerolíneas Mundo Maya",
@@ -633,7 +633,7 @@
   },
   {
    "nombre": "Mariana Lucía Castañeda Rivas",
-   "nit": "6297015-1",
+   "nit": "62970151",
    "telefono": "+502 5688 2234",
    "direccion": "Calzada Atanasio Tzul 22-00, Zona 12, Guatemala",
    "empleador": "Panadería San Martín de Porres",
@@ -641,7 +641,7 @@
   },
   {
    "nombre": "María José Castillo López",
-   "nit": "2845019-1",
+   "nit": "28450191",
    "telefono": "+502 5512 3348",
    "direccion": "Bulevar Vista Hermosa 18-40, Zona 15, Guatemala",
    "empleador": "Banco Agrícola del Altiplano",
@@ -649,7 +649,7 @@
   },
   {
    "nombre": "Mateo Esteban Figueroa Duarte",
-   "nit": "4250916-5",
+   "nit": "42509165",
    "telefono": "+502 3027 5539",
    "direccion": "Colonia Santa Inés, 3a Calle, San Miguel Petapa",
    "empleador": "Startup EcoRuta",
@@ -657,7 +657,7 @@
   },
   {
    "nombre": "Natalia Sofía Girón Escobar",
-   "nit": "1624793-0",
+   "nit": "16247930",
    "telefono": "+502 5309 4478",
    "direccion": "Colonia El Naranjo, 5a Avenida, Mixco",
    "empleador": "Estudio de Arquitectura Bioclima",
@@ -665,7 +665,7 @@
   },
   {
    "nombre": "Pablo Ernesto Chávez Lima",
-   "nit": "4682093-0",
+   "nit": "46820930",
    "telefono": "+502 5543 1176",
    "direccion": "Avenida Reforma 8-60, Zona 9, Guatemala",
    "empleador": "Seguros La Ceiba",
@@ -673,7 +673,7 @@
   },
   {
    "nombre": "Paula Andrea Vásquez Toledo",
-   "nit": "5143928-K",
+   "nit": "5143928K",
    "telefono": "+502 3289 1145",
    "direccion": "Colonia Arrivillaga, 14 Calle, San Miguel Petapa",
    "empleador": "Escuela de Yoga Prana",
@@ -681,7 +681,7 @@
   },
   {
    "nombre": "Regina Alejandra Molina Quiñónez",
-   "nit": "3047285-7",
+   "nit": "30472857",
    "telefono": "+502 3155 7792",
    "direccion": "Residenciales Prados de Villa Nueva, Villa Nueva",
    "empleador": "Colegio Montessori Los Pinos",
@@ -689,7 +689,7 @@
   },
   {
    "nombre": "Ricardo Antonio Gómez Estrada",
-   "nit": "6025731-8",
+   "nit": "60257318",
    "telefono": "+502 3390 5547",
    "direccion": "6a Avenida 7-39, Zona 4, Guatemala",
    "empleador": "Café Barista Cuatro Grados",
@@ -697,7 +697,7 @@
   },
   {
    "nombre": "Sebastián Alejandro Muñoz Girón",
-   "nit": "3824601-5",
+   "nit": "38246015",
    "telefono": "+502 4033 9987",
    "direccion": "Residenciales Catalina, Casa 47, Villa Nueva",
    "empleador": "Desarrollos Inmobiliarios Altamira",
@@ -705,7 +705,7 @@
   },
   {
    "nombre": "Sofía Alejandra Rodríguez Paz",
-   "nit": "5274813-8",
+   "nit": "52748138",
    "telefono": "+502 4120 8876",
    "direccion": "Avenida Las Américas 9-50, Zona 13, Guatemala",
    "empleador": "Universidad Panamericana del Norte",
@@ -713,7 +713,7 @@
   },
   {
    "nombre": "Valeria Isabel Martínez Cruz",
-   "nit": "2209638-8",
+   "nit": "22096388",
    "telefono": "+502 5876 4421",
    "direccion": "Ciudad San Cristóbal, Sector A1, Mixco",
    "empleador": "Agencia Creativa Jade",
@@ -721,7 +721,7 @@
   },
   {
    "nombre": "Óscar Rafael Cabrera Sandoval",
-   "nit": "6573910-8",
+   "nit": "65739108",
    "telefono": "+502 5432 8817",
    "direccion": "Km 20 Carretera a El Salvador, Condominio Gardenias, Fraijanes",
    "empleador": "Ingenio Azucarero La Unión",
@@ -731,10 +731,10 @@
  "compras": [
   {
    "nombre": "P00001",
-   "proveedor": "Lombricompost Chimaltenango",
+   "proveedor": "Agroinsumos La Cosecha, S.A.",
    "estado": "draft",
    "origen": "OP/00015",
-   "total": 696.96,
+   "total": 740.52,
    "lineas": [
     "Fertilizante Líquido Orgánico 1 L × 22"
    ]
@@ -751,10 +751,10 @@
   },
   {
    "nombre": "P00003",
-   "proveedor": "Agroexportadora Verde Maya, S.A.",
+   "proveedor": "Tropical Plants Guatemala, S.A.",
    "estado": "draft",
    "origen": "OP/00006, OP/00004",
-   "total": 3500.16,
+   "total": 3646.0,
    "lineas": [
     "Calathea Orbifolia × 19",
     "Ficus Lyrata – Pandurata (60 cm) × 18"
@@ -762,10 +762,10 @@
   },
   {
    "nombre": "P00004",
-   "proveedor": "Empaques Kraft de Guatemala, S.A.",
+   "proveedor": "Fertilizantes Orgánicos del Altiplano",
    "estado": "draft",
    "origen": "OP/00020",
-   "total": 1416.96,
+   "total": 1446.48,
    "lineas": [
     "UrbanJungle Care Box – Suscripción Mensual × 18"
    ]

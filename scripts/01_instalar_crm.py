@@ -1,7 +1,14 @@
-"""Instala el módulo CRM en la instancia de Odoo."""
+"""Instala las apps que usa el proyecto: CRM, Inventario y Compras.
+
+Odoo agrega solo los módulos puente (sale_stock, purchase_stock, sale_crm).
+"""
 from odoo_api import call
 
-ids = call("ir.module.module", "search", domain=[["name", "=", "crm"]])
-print("antes:", call("ir.module.module", "read", ids=ids, fields=["state"]))
-call("ir.module.module", "button_immediate_install", ids=ids)
-print("después:", call("ir.module.module", "read", ids=ids, fields=["state"]))
+MODULOS = ["crm", "stock", "purchase"]
+
+ids = call("ir.module.module", "search", domain=[["name", "in", MODULOS], ["state", "!=", "installed"]])
+if ids:
+    call("ir.module.module", "button_immediate_install", ids=ids)
+for m in call("ir.module.module", "search_read", fields=["name", "state"], domain=[
+        ["name", "in", MODULOS + ["sale_stock", "purchase_stock", "sale_crm", "stock_sms"]]]):
+    print(m["name"], m["state"])

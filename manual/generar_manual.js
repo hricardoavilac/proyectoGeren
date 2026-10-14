@@ -131,7 +131,7 @@ const portada = [
   ...[["Hernán Ricardo Ávila Castillo", "9516085"], ["Sebastián Gómez Lavarreda", "201602929"],
       ["Rodrigo Alejandro Tahuite Soria", "202202854"]].map(([n, c]) => P(`${n}, carné ${c}`, { align: AlignmentType.CENTER, after: 40 })),
   P("", { after: 600 }),
-  P("Guatemala, 2 de octubre de 2026", { align: AlignmentType.CENTER }),
+  P("Guatemala, 17 de octubre de 2026", { align: AlignmentType.CENTER }),
 ];
 
 const indice = [
@@ -150,8 +150,8 @@ const seccionIntro = [
   H2("Datos de la instancia"),
   ficha([
     ["URL de acceso", D.url],
-    ["Base de datos", "usac"],
-    ["Edición y versión", "Odoo Online (SaaS) Enterprise, serie 19.4"],
+    ["Base de datos", "usac-g3"],
+    ["Edición y versión", "Odoo Online (SaaS) Enterprise, versión 20.0"],
     ["Empresa", D.empresa],
     ["Moneda e impuestos", "Quetzal (GTQ); IVA 12% incluido en precios de venta y compra"],
     ["Almacén", "UrbanJungle – Bodega Zona 15 (recepción y entrega en 1 paso)"],
@@ -206,7 +206,7 @@ const seccionErp = [
   H1("Implementación ERP"),
   H2("Configuración inicial"),
   ...[
-    "Se instaló el módulo CRM (Ventas, Inventario, Compras y Contabilidad ya estaban activos).",
+    "Se instalaron Inventario y Compras; Ventas, CRM y Contabilidad ya estaban activos en la base.",
     "Se renombró la compañía a «UrbanJungle – Vivero El Jardín Urbano», con logotipo, dirección en zona 15 y datos de contacto, que aparecen en cotizaciones, órdenes de compra y correos.",
     "Se renombró el almacén a «UrbanJungle – Bodega Zona 15»; la ruta «Comprar» está activa para reabastecer el almacén.",
     "Se creó la jerarquía de categorías «UrbanJungle / …» (Plantas de Interior, Suculentas y Cactus, Macetas y Colgantes, Sustratos y Fertilizantes, Herramientas y Accesorios, Suscripciones).",

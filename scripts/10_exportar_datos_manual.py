@@ -33,7 +33,7 @@ for s in infos:
     por_prov[s["partner_id"][0]].append(s["product_tmpl_id"][1].split("] ", 1)[-1])
 proveedores = []
 for v in PROVEEDORES:
-    pid = call("res.partner", "search_read", domain=[["vat", "=", nit(v[1])]], fields=["name", "vat", "city", "phone"])[0]
+    pid = call("res.partner", "search_read", domain=[["vat", "in", [nit(v[1]), nit(v[1]).replace("-", "")]]], fields=["name", "vat", "city", "phone"])[0]
     proveedores.append({"nombre": pid["name"], "nit": pid["vat"], "ciudad": pid["city"], "telefono": pid["phone"],
                         "rubro": v[6], "productos": por_prov[pid["id"]]})
 
