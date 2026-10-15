@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="600" height="600" fill="#D7E8DD"/>
+  <ellipse cx="300" cy="520" rx="200" ry="24" fill="#1F6F50" opacity="0.18"/>
+  <!-- Planta -->
+  <path d="M300 250 C250 180 260 120 300 100 C330 140 330 200 300 250 Z" fill="#5FA37A"/>
+  <path d="M310 250 C330 160 380 130 420 140 C410 190 370 230 310 250 Z" fill="#1F6F50"/>
+  <path d="M295 255 C240 230 215 180 225 150 C265 160 290 200 295 255 Z" fill="#8FBFA2"/>
+  <!-- Maceta exterior con corte para ver el depósito -->
+  <path d="M170 260 L430 260 L405 510 L195 510 Z" fill="#F4F7F5" stroke="#1F6F50" stroke-width="6"/>
+  <path d="M190 420 L410 420 L405 505 L195 505 Z" fill="#7FB8D8" opacity="0.85"/>
+  <path d="M215 285 L385 285 L372 420 L228 420 Z" fill="#8C6A43"/>
+  <rect x="285" y="420" width="30" height="80" fill="#8C6A43" opacity="0.8"/>
+  <!-- Indicador de nivel -->
+  <rect x="440" y="300" width="22" height="190" rx="10" fill="#FFFFFF" stroke="#1F6F50" stroke-width="4"/>
+  <rect x="444" y="420" width="14" height="66" rx="6" fill="#7FB8D8"/>
+  <text x="300" y="565" text-anchor="middle" font-size="22" font-weight="700" fill="#1F6F50">Maceta autorriego 16 cm</text>
+</svg>

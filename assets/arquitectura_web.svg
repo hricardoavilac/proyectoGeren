@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1400" height="640" fill="#FFFFFF"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#1F6F50"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#C97B2E"/></marker>
+  </defs>
+  <text x="700" y="42" text-anchor="middle" font-size="28" font-weight="700" fill="#1F6F50">Arquitectura cliente-servidor del sitio UrbanJungle</text>
+
+  <!-- Cliente -->
+  <rect x="40" y="110" width="300" height="400" rx="16" fill="#F4F7F5" stroke="#1F6F50" stroke-width="2"/>
+  <text x="190" y="150" text-anchor="middle" font-size="22" font-weight="700" fill="#1F6F50">Cliente</text>
+  <text x="190" y="178" text-anchor="middle" font-size="17" fill="#44546A">Navegador del comprador</text>
+  <g font-size="17" fill="#333">
+    <rect x="70" y="205" width="240" height="60" rx="10" fill="#FFFFFF" stroke="#BFD6C8"/>
+    <text x="190" y="232" text-anchor="middle">HTML, CSS (Bootstrap 5)</text>
+    <text x="190" y="254" text-anchor="middle">generados en el servidor</text>
+    <rect x="70" y="280" width="240" height="60" rx="10" fill="#FFFFFF" stroke="#BFD6C8"/>
+    <text x="190" y="307" text-anchor="middle">JavaScript de Odoo</text>
+    <text x="190" y="329" text-anchor="middle">(carrito, buscador)</text>
+    <rect x="70" y="355" width="240" height="60" rx="10" fill="#FFFFFF" stroke="#BFD6C8"/>
+    <text x="190" y="382" text-anchor="middle">Cookie de sesión</text>
+    <text x="190" y="404" text-anchor="middle">(carrito y cuenta)</text>
+  </g>
+
+  <!-- Flechas HTTPS -->
+  <line x1="345" y1="250" x2="535" y2="250" stroke="#1F6F50" stroke-width="3" marker-end="url(#a)"/>
+  <text x="440" y="236" text-anchor="middle" font-size="16" fill="#1F6F50">Petición HTTPS</text>
+  <text x="440" y="275" text-anchor="middle" font-size="14" fill="#44546A">GET /shop, POST /shop/cart</text>
+  <line x1="535" y1="370" x2="345" y2="370" stroke="#C97B2E" stroke-width="3" marker-end="url(#b)"/>
+  <text x="440" y="356" text-anchor="middle" font-size="16" fill="#C97B2E">Respuesta</text>
+  <text x="440" y="395" text-anchor="middle" font-size="14" fill="#44546A">página HTML o JSON</text>
+
+  <!-- Servidor -->
+  <rect x="540" y="80" width="820" height="520" rx="16" fill="#F4EBDD" stroke="#C97B2E" stroke-width="2"/>
+  <text x="950" y="116" text-anchor="middle" font-size="22" font-weight="700" fill="#C97B2E">Servidor: Odoo Online (usac-g3.odoo.com), versión 20</text>
+  <rect x="570" y="140" width="360" height="170" rx="12" fill="#FFFFFF" stroke="#BFD6C8"/>
+  <text x="750" y="172" text-anchor="middle" font-size="19" font-weight="700" fill="#1F6F50">Aplicación Odoo (Python)</text>
+  <g font-size="16" fill="#333">
+    <text x="590" y="204">Controladores web: /shop, /shop/cart,</text>
+    <text x="590" y="228">/shop/checkout, /web/signup, /web/login</text>
+    <text x="590" y="256">Motor de plantillas QWeb</text>
+    <text x="590" y="284">ORM: lee y escribe los modelos</text>
+  </g>
+  <rect x="970" y="140" width="360" height="170" rx="12" fill="#FFFFFF" stroke="#BFD6C8"/>
+  <text x="1150" y="172" text-anchor="middle" font-size="19" font-weight="700" fill="#1F6F50">Módulos del ERP y CRM</text>
+  <g font-size="16" fill="#333">
+    <text x="990" y="204">Sitio web y eCommerce</text>
+    <text x="990" y="228">Ventas · Inventario · Compras</text>
+    <text x="990" y="252">CRM · Contactos · Contabilidad</text>
+    <text x="990" y="276">Tableros (BI)</text>
+  </g>
+  <line x1="930" y1="225" x2="965" y2="225" stroke="#1F6F50" stroke-width="3" marker-end="url(#a)"/>
+
+  <rect x="570" y="350" width="760" height="110" rx="12" fill="#FFFFFF" stroke="#BFD6C8"/>
+  <text x="950" y="384" text-anchor="middle" font-size="19" font-weight="700" fill="#1F6F50">Base de datos PostgreSQL (usac-g3)</text>
+  <text x="950" y="414" text-anchor="middle" font-size="16" fill="#333">product.template · sale.order · res.partner · stock.picking · purchase.order · crm.lead</text>
+  <text x="950" y="440" text-anchor="middle" font-size="15" fill="#44546A">Una sola base: la tienda y el ERP leen y escriben los mismos registros</text>
+  <line x1="750" y1="312" x2="750" y2="345" stroke="#1F6F50" stroke-width="3" marker-end="url(#a)"/>
+  <line x1="1150" y1="312" x2="1150" y2="345" stroke="#1F6F50" stroke-width="3" marker-end="url(#a)"/>
+
+  <rect x="570" y="490" width="760" height="80" rx="12" fill="#FFFFFF" stroke="#BFD6C8"/>
+  <text x="950" y="522" text-anchor="middle" font-size="17" fill="#333">Correo saliente (plantillas y confirmaciones) · Archivos e imágenes de productos</text>
+  <text x="950" y="550" text-anchor="middle" font-size="15" fill="#44546A">Servicios incluidos en Odoo Online</text>
+</svg>

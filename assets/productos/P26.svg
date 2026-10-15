@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="600" height="600" fill="#D7E8DD"/>
+  <ellipse cx="300" cy="510" rx="230" ry="26" fill="#1F6F50" opacity="0.18"/>
+  <!-- Bolsa de sustrato -->
+  <path d="M90 250 L200 240 L215 500 L80 500 Z" fill="#8C6A43"/>
+  <rect x="100" y="320" width="100" height="60" rx="8" fill="#FFFFFF"/>
+  <text x="150" y="346" text-anchor="middle" font-size="16" font-weight="700" fill="#1F6F50">Sustrato</text>
+  <text x="150" y="368" text-anchor="middle" font-size="14" fill="#44546A">5 L</text>
+  <!-- Planta en maceta -->
+  <path d="M300 300 C250 230 260 170 300 150 C330 190 330 250 300 300 Z" fill="#5FA37A"/>
+  <path d="M310 300 C330 210 380 180 420 190 C410 240 370 280 310 300 Z" fill="#1F6F50"/>
+  <path d="M295 305 C240 280 215 230 225 200 C265 210 290 250 295 305 Z" fill="#8FBFA2"/>
+  <path d="M235 320 L385 320 L370 500 L250 500 Z" fill="#C97B2E"/>
+  <rect x="225" y="305" width="170" height="26" rx="8" fill="#B06A24"/>
+  <!-- Etiqueta del kit -->
+  <rect x="410" y="360" width="140" height="120" rx="14" fill="#FFFFFF"/>
+  <text x="480" y="400" text-anchor="middle" font-size="20" font-weight="700" fill="#1F6F50">Kit de</text>
+  <text x="480" y="426" text-anchor="middle" font-size="20" font-weight="700" fill="#1F6F50">Inicio</text>
+  <text x="480" y="456" text-anchor="middle" font-size="15" fill="#C97B2E">UrbanJungle</text>
+</svg>

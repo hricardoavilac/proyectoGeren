@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="600" height="600" fill="#D7E8DD"/>
+  <ellipse cx="300" cy="520" rx="170" ry="22" fill="#1F6F50" opacity="0.18"/>
+  <!-- Tutor de musgo -->
+  <rect x="280" y="70" width="40" height="420" rx="18" fill="#7A5C3A"/>
+  <g stroke="#5E4529" stroke-width="5" stroke-linecap="round">
+    <path d="M284 110 L316 130"/><path d="M284 170 L316 190"/><path d="M284 230 L316 250"/>
+    <path d="M284 290 L316 310"/><path d="M284 350 L316 370"/><path d="M284 410 L316 430"/>
+  </g>
+  <!-- Hojas trepando -->
+  <path d="M320 150 C380 120 440 140 450 190 C400 210 350 195 320 150 Z" fill="#1F6F50"/>
+  <path d="M280 250 C220 220 160 240 150 290 C200 310 250 295 280 250 Z" fill="#5FA37A"/>
+  <path d="M320 350 C380 320 440 340 450 390 C400 410 350 395 320 350 Z" fill="#1F6F50"/>
+  <path d="M385 162 L410 185 M190 270 L215 290 M385 362 L410 385" stroke="#D7E8DD" stroke-width="5" stroke-linecap="round"/>
+  <!-- Maceta -->
+  <path d="M215 470 L385 470 L370 535 L230 535 Z" fill="#C97B2E"/>
+  <rect x="205" y="455" width="190" height="24" rx="8" fill="#B06A24"/>
+  <text x="300" y="45" text-anchor="middle" font-size="24" font-weight="700" fill="#1F6F50">Tutor de musgo 60 cm</text>
+</svg>

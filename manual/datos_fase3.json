@@ -1,0 +1,270 @@
+{
+ "url": "https://usac-g3.odoo.com",
+ "kpi": {
+  "ticket_promedio": 302.76363636363635,
+  "conversion": 0.3333333333333333,
+  "suscriptores": 6,
+  "recompra": 0.6944444444444444,
+  "nivel_servicio": 1.0,
+  "entregas_a_tiempo": 1.0
+ },
+ "contexto": {
+  "ingresos": 33304.0,
+  "ventas": 110,
+  "clientes": 36,
+  "proveedores": 20,
+  "clientes_web": 6,
+  "ventas_web": 25,
+  "ingresos_web": 6602.0,
+  "cotizaciones_web": 4,
+  "productos": 30,
+  "compras": 8,
+  "compras_total": 10750.4
+ },
+ "meses": {
+  "2026-07": {
+   "ventas": 15,
+   "ingresos": 4608.0
+  },
+  "2026-08": {
+   "ventas": 20,
+   "ingresos": 6296.0
+  },
+  "2026-09": {
+   "ventas": 50,
+   "ingresos": 15798.0
+  },
+  "2026-10": {
+   "ventas": 25,
+   "ingresos": 6602.0
+  }
+ },
+ "top5": [
+  [
+   "UrbanJungle Care Box – Suscripción Mensual",
+   41.0
+  ],
+  [
+   "Atomizador para Plantas 500 ml",
+   19.0
+  ],
+  [
+   "Calathea Orbifolia",
+   17.0
+  ],
+  [
+   "Peperomia Obtusifolia",
+   17.0
+  ],
+  [
+   "Pothos Marble Queen (maceta 12 cm)",
+   16.0
+  ]
+ ],
+ "bottom5": [
+  [
+   "Pilea Peperomioides – Planta China del Dinero",
+   1.0
+  ],
+  [
+   "Espatifilo – Cuna de Moisés",
+   1.0
+  ],
+  [
+   "Aloe Vera en Maceta",
+   2.0
+  ],
+  [
+   "Maceta Autorriego 16 cm",
+   2.0
+  ],
+  [
+   "Cúpula de Vidrio con Planta Decorativa",
+   3.0
+  ]
+ ],
+ "sin_ventas": [
+  "Kit de Inicio UrbanJungle",
+  "Lámpara LED de Cultivo para Interior"
+ ],
+ "top_clientes": [
+  [
+   "Natalia Sofía Girón Escobar",
+   3622.0,
+   8
+  ],
+  [
+   "Sofía Alejandra Rodríguez Paz",
+   3621.0,
+   9
+  ],
+  [
+   "María José Castillo López",
+   2863.0,
+   7
+  ],
+  [
+   "Daniela Sofía Flores Barrios",
+   2209.0,
+   6
+  ],
+  [
+   "Isabella María Juárez Cifuentes",
+   1995.0,
+   5
+  ]
+ ],
+ "existencias": [
+  [
+   "UJ-P01",
+   "Monstera Deliciosa (maceta 14 cm)",
+   20.0
+  ],
+  [
+   "UJ-P02",
+   "Pothos Marble Queen (maceta 12 cm)",
+   25.0
+  ],
+  [
+   "UJ-P03",
+   "Sansevieria Trifasciata – Lengua de Suegra",
+   14.0
+  ],
+  [
+   "UJ-P04",
+   "Ficus Lyrata – Pandurata (60 cm)",
+   19.0
+  ],
+  [
+   "UJ-P05",
+   "Zamioculca – Planta ZZ",
+   14.0
+  ],
+  [
+   "UJ-P06",
+   "Calathea Orbifolia",
+   13.0
+  ],
+  [
+   "UJ-P07",
+   "Philodendron Corazón Colgante",
+   16.0
+  ],
+  [
+   "UJ-P08",
+   "Peperomia Obtusifolia",
+   10.0
+  ],
+  [
+   "UJ-P09",
+   "Suculenta Echeveria Elegans",
+   22.0
+  ],
+  [
+   "UJ-P10",
+   "Cactus Mammillaria",
+   13.0
+  ],
+  [
+   "UJ-P11",
+   "Maceta de Cerámica Negra con Base 12 cm",
+   14.0
+  ],
+  [
+   "UJ-P12",
+   "Maceta de Barro Clásica 18 cm",
+   15.0
+  ],
+  [
+   "UJ-P13",
+   "Colgante de Macramé para Maceta",
+   14.0
+  ],
+  [
+   "UJ-P14",
+   "Sustrato Premium para Interior 5 L",
+   15.0
+  ],
+  [
+   "UJ-P15",
+   "Fertilizante Líquido Orgánico 1 L",
+   23.0
+  ],
+  [
+   "UJ-P16",
+   "Humus de Lombriz 2 kg",
+   10.0
+  ],
+  [
+   "UJ-P17",
+   "Regadera Metálica 1.5 L",
+   19.0
+  ],
+  [
+   "UJ-P18",
+   "Atomizador para Plantas 500 ml",
+   8.0
+  ],
+  [
+   "UJ-P19",
+   "Pala de Trasplante de Acero",
+   11.0
+  ],
+  [
+   "UJ-P20",
+   "UrbanJungle Care Box – Suscripción Mensual",
+   17.0
+  ],
+  [
+   "UJ-P21",
+   "Pilea Peperomioides – Planta China del Dinero",
+   21.0
+  ],
+  [
+   "UJ-P22",
+   "Espatifilo – Cuna de Moisés",
+   21.0
+  ],
+  [
+   "UJ-P23",
+   "Aloe Vera en Maceta",
+   26.0
+  ],
+  [
+   "UJ-P24",
+   "Helecho de Boston Colgante",
+   14.0
+  ],
+  [
+   "UJ-P25",
+   "Orquídea Phalaenopsis (maceta 12 cm)",
+   13.0
+  ],
+  [
+   "UJ-P26",
+   "Kit de Inicio UrbanJungle",
+   20.0
+  ],
+  [
+   "UJ-P27",
+   "Cúpula de Vidrio con Planta Decorativa",
+   13.0
+  ],
+  [
+   "UJ-P28",
+   "Tutor de Musgo para Monstera 60 cm",
+   17.0
+  ],
+  [
+   "UJ-P29",
+   "Maceta Autorriego 16 cm",
+   20.0
+  ],
+  [
+   "UJ-P30",
+   "Lámpara LED de Cultivo para Interior",
+   15.0
+  ]
+ ],
+ "existencias_min": "Atomizador para Plantas 500 ml"
+}
