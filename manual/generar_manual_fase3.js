@@ -8,7 +8,7 @@ const { P, H1, H2, q, run, bullet, pasos, figura, tabla, ficha, espacio, enlace 
 
 const D = JSON.parse(fs.readFileSync(path.join(__dirname, "datos_fase3.json"), "utf8"));
 const C = D.contexto;
-const VIDEO_URL = process.env.VIDEO_URL || "";
+const VIDEO_URL = process.env.VIDEO_URL || "https://drive.google.com/file/d/1R2NjcmlobDmDndXHG34Hk1iaLXp1ktwT/view";
 const SITIO = D.url;
 let nFig = 0;
 const existe = (rel) => fs.existsSync(path.join(B.ROOT, rel));
@@ -104,7 +104,7 @@ const hijos = [
   ...captura("10_tablero_bi.jpg", "Tablero UrbanJungle BI en Odoo Tableros."),
 
   ...(VIDEO_URL ? [H1("Video tutorial"), P(["El video está en ", enlace(VIDEO_URL), "."], { align: B.AlignmentType.LEFT }),
-    P("Muestra en menos de 4 minutos el registro de un cliente, el inicio de sesión, la navegación por el catálogo, el carrito y una compra completa, y el pedido resultante en el backend de Odoo.")] : []),
+    P("Es el video tutorial del sitio de comercio electrónico de UrbanJungle, publicado en Google Drive con acceso para cualquier persona que tenga el enlace.")] : []),
 
   H1("Créditos de imágenes"),
   P("El logotipo, los banners, las ilustraciones del Kit de Inicio, el Tutor de Musgo, la Maceta Autorriego y la Care Box, y los diagramas son del equipo. Las fotografías de productos son de Wikimedia Commons con licencias libres; la lista completa con autor y licencia está en el Manual Técnico de la Fase 2 y en assets/productos/creditos.json del repositorio."),
